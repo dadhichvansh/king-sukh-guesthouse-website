@@ -52,11 +52,11 @@ king-sukh-guesthouse-website-internship-2024/
 
 1. Clone the Repository:
 ```
-git clone https://github.com/dadhichvansh/king-sukh-guesthouse-website-internship-2024.git
+git clone https://github.com/dadhichvansh/king-sukh-guesthouse-website.git
 ```
 2. Navigate to the Project Directory:
 ```
-cd king-sukh-guesthouse-website-internship-2024
+cd king-sukh-guesthouse-website
 ```
 3. Open the Website:
     - Open the \`index.html\` file in your browser.
